@@ -13,17 +13,17 @@
 12. **Removing duplicate characters**: Write a program that removes the duplicate characters from the given string.
 13. **Removing given characters**: Write a program that removes the given character from the given string.
 14. [**Finding the character with the most appearances**: Write a program that finds the character with the most appearances in the given string.](FindingTheCharacterWithTheMostAppearances.java)
-15. **Sorting an array of strings by length**: Write a program that sorts by the length of the given array of strings.
+15. [**Sorting an array of strings by length**: Write a program that sorts by the length of the given array of strings.](SortingAnArrayOfStringsByLength.java)
 16. **Checking that a string contains a substring**: Write a program that checks whether the given string contains the given substring.
 17. **Counting substring occurrences a string**: Write a program that counts the occurrences of a given string in another given string.
 18. **Checking whether two strings are anagrams**: Write a program that checks whether two strings are anagrams. Consider that an anagram of a string is a permutation of this string by ignoring capitalization and white spaces.
 19. **Declaring multi-line strings (text blocks)**: Write a program that declares multi-line strings or text blocks.
-20. **Concatenating the same string n times**: Write a program that concatenates the same string a given number of times.
-21. **Removing leading and trailing spaces**: Write a program that removes the leading and trailing spaces of the given string.
+20. [**Concatenating the same string n times**: Write a program that concatenates the same string a given number of times.](ConcatenatingTheSameStringNTimes.java)
+21. [**Removing leading and trailing spaces**: Write a program that removes the leading and trailing spaces of the given string.](RemovingLeadingAndTrailingSpaces.java)
 22. **Finding the longest common prefix**: Write a program that finds the longest common prefix of given strings.
 23. **Applying indentation**: Write several snippets of code to apply indentation to the given text.
 24. **Transforming strings**: Write several snippets of code to transform a string into another string.
-25. **Computing the minimum and maximum of two numbers**: Write a program that returns the minimum and maximum of two numbers.
+25. [**Computing the minimum and maximum of two numbers**: Write a program that returns the minimum and maximum of two numbers.](ComputingTheMinimumAndMaximumOfTwoNumbers.java)
 26. **Summing two large int/long numbers and operation overflow**: Write a program that sums two large int/long numbers and throws an arithmetic exception in the case of an operation overflow.
 27. **String as an unsigned number in the radix**: Write a program that parses the given string into an unsigned number (int or long) in the given radix.
 28. **Converting into a number by an unsigned conversion**: Write a program that converts a given int number into long by an unsigned conversion.
