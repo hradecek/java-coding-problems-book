@@ -5,13 +5,13 @@ package com.hradecek.coding.chapter01;
  * <p>
  * Write a program that determines whether the given string is a palindrome or not.
  */
-public class JoiningMultipleStringsWithADelimiter {
+public class CheckingWhetherAStringIsAPalindrome {
 
     /**
      * Check whether {@code string} is a palindrome.
      *
      * @param string input string
-     * @return true if {@code} string is a palindrome
+     * @return true if {@code string} is a palindrome,
      *         false otherwise.
      */
     public static boolean isPalindrome(final String string) {

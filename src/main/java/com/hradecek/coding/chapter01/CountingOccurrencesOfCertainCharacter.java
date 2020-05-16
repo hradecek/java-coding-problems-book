@@ -1,7 +1,7 @@
 package com.hradecek.coding.chapter01;
 
 /**
- * 6. Counting occurrences of a certain character
+ * 6. Counting occurrences of a certain character.
  * <p>
  * Write a program that counts the occurrences of a certain character in a given string.
  */

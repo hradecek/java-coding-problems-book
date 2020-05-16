@@ -3,7 +3,7 @@ package com.hradecek.coding.chapter01;
 import java.util.stream.Collector;
 
 /**
- * 8. Removing white spaces from a string
+ * 8. Removing white spaces from a string.
  * <p>
  * Write a program that removes all white spaces from the given string.
  */
