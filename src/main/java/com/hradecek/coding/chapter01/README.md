@@ -5,9 +5,9 @@
 4. [**Checking whether a string contains only digits**: Write a program that checks whether the given string contains only digits.](CheckingWhetherAStringContainsOnlyDigits.java)
 5. [**Counting vowels and consonants**: Write a program that counts the number of vowels and consonants in a given string. Do this for the English language, which has five vowels (a, e, i, o, and u).](CountingVowelsAndConsonants.java)
 6. [**Counting occurrences of a certain character**: Write a program that counts the occurrences of a certain character in a given string.](CountingOccurrencesOfCertainCharacter.java)
-7. **Converting `String` into `int`, `long`, `float`, or `double`**: Write a program that converts the given `String` object (representing a number) into `int`, `long`, `float`, or `double`.
+7. [**Converting `String` into `int`, `long`, `float`, or `double`**: Write a program that converts the given `String` object (representing a number) into `int`, `long`, `float`, or `double`.](ConvertingStringIntoNumber.java)
 8. [**Removing white spaces from a string**: Write a program that removes all white spaces from the given string.](RemovingWhitespacesFromAString.java)
-9. **Joining multiple strings with a delimiter**: Write a program that joins the given strings by the given delimiter.
+9. [**Joining multiple strings with a delimiter**: Write a program that joins the given strings by the given delimiter.](JoiningMultipleStringsWithADelimiter.java)
 10. **Generating all permutations**: Write a program that generates all of the permutations of a given string.
 11. [**Checking whether a string is a palindrome**: Write a program that determines whether the given string is a palindrome or not.](CheckingWhetherAStringIsAPalindrome.java)
 12. **Removing duplicate characters**: Write a program that removes the duplicate characters from the given string.

@@ -1,24 +1,20 @@
 package com.hradecek.coding.chapter01;
 
 /**
- * 11. Checking whether a string is a palindrome.
+ * 9. Joining multiple strings with a delimiter.
  * <p>
- * Write a program that determines whether the given string is a palindrome or not.
+ * Write a program that joins the given strings by the given delimiter.
  */
 public class JoiningMultipleStringsWithADelimiter {
 
     /**
-     * Check whether {@code string} is a palindrome.
+     * Join {@code strings} delimited by {@code delimiter}.
      *
-     * @param string input string
-     * @return true if {@code} string is a palindrome
-     *         false otherwise.
+     * @param delimiter delimiter for strings
+     * @param strings string to be joint
+     * @return joint {@code strings} delimited by {@code delimiter}
      */
-    public static boolean isPalindrome(final String string) {
-        return string.equals(reverse(string));
-    }
-
-    private static String reverse(final String string) {
-        return new StringBuilder(string).reverse().toString();
+    public String join(char delimiter, String... strings) {
+        return String.join(String.valueOf(delimiter), strings);
     }
 }
